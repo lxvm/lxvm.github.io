@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/lxvm/projects/web/lxvm.github.io",
+	"sourceRoot": "/local/home/lxvm/projects/website/lxvm.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
